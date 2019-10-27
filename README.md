@@ -26,6 +26,7 @@ or anywhere in between.
   * `en` English
   * `nb` Norwegian Bokmål
   * `nn` Norwegian Nynorsk
+  * `sv` Swedish
 
 ## TODO
 
