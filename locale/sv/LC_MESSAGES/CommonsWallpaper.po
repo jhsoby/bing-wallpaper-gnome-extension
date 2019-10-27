@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 13:24+0200\n"
+"PO-Revision-Date: 2019-10-27 13:05+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv_SE\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Dölj indikatorn"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Ställ in bakgrundsbild"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Ställ in låsskärmsbild"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Nedladdnignsmapp:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Commons bakgrundsbildsmapp"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Ta bort tidigare hämtade bakgrundsbilder:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Antal bakgrundsbilder att lagra innan du raderar den äldsta:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Timmar mellan automatiska uppdateringar:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Skärmupplösning:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Åsidosätt automatiskt val av upplösning"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Inställningar"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version: "
+msgstr "Gnome shell-tilläggsversion:"
+
+#: Settings.ui.h:13
+msgid ""
+"Changes your wallpaper to selected pictures from Wikimedia Commons at set "
+"intervals. Displays the title, creator and license of the pictures."
+msgstr ""
+"Ändrar bakgrunden till utvalda bilder från Wikimedia Commons i valt "
+"intervall.\n"
+"Visar titel, skapare och licens för bilderna."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Underhålls av Jon Harald Søby"
+
+#: Settings.ui.h:15
+msgid "https://github.com/jhsoby/commons-wallpaper-gnome-extension"
+msgstr "https://github.com/jhsoby/commons-wallpaper-gnome-extension"
+
+#: Settings.ui.h:16
+msgid ""
+"Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was "
+"again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr ""
+"Baserad på Gnome-tillägget Bing Wallpaper av Michael Carroll, som i sin "
+"tur var baserad på Gnome-tillägget NASA APOD av Ella Argentieri."
+
+#: Settings.ui.h:17
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">Detta program kommer HELT UTAN GARANTIER.\n"
+"Se <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU "
+"General Public Licensen, version 3 eller senare</a> för detaljer.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Om"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "minuter"
+
+#: extension.js:82
+msgid "days"
+msgstr "dagar"
+
+#: extension.js:85
+msgid "hours"
+msgstr "timmar"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Ingen uppdatering schemalagd)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Inväntar uppdatering ..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Kopiera bildens URL till urklipp"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Uppdatera nu"
+
+#: extension.js:169
+msgid "Next refresh"
+msgstr "Nästa uppdatering"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Ingen beskrivning ...)"
+
+#: extension.js:266
+msgid "Creator: "
+msgstr "Skapare:"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Ingen skapare angiven ...)"
+
+#: extension.js:271
+msgid "License: "
+msgstr "Licens:"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Ingen bakgrund tillgänglig"
