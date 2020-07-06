@@ -1,0 +1,136 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Italian (italiano)
+# Exported from translatewiki.net
+#
+# Author: Beta16
+# Author: Gianfranco
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2020-07-06 16:43:51+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"X-Generator: MediaWiki 1.35.0-alpha; Translate 2020-04-20\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Nascondi l'indicatore"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Imposta immagine di sfondo"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Imposta immagine per il blocco schermo"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Scarica la cartella:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Cartella immagini Commons Wallpaper"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Cancella sfondi precedentemente scaricati:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Numero di sfondi da conservare prima di cancellare i più vecchi:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Ore di intervallo fra gli aggiornamenti automatici:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Risoluzione dello schermo:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Ignora e sovrascrivi la selezione automatica della risoluzione"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Versione dell'estensione di GNOME Shell:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Cambia il tuo sfondo con immagini selezionate di Wikimedia Commons a certi intervalli. Mostra il titolo, l'autore e la licenza delle immagini."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Gestito da Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Basata sull'estensione di GNOME Shell Bing Wallpaper di Michael Carroll, che a sua volta era basata sull'estensione NASA APOD di Ella Argentieri."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Questo programma è rilasciato ASSOLUTAMENTE SENZA GARANZIE.\nVedi la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, versione 3 o successive,</a> per dettagli.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Informazioni"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "minuti"
+
+#: extension.js:82
+msgid "days"
+msgstr "giorni"
+
+#: extension.js:85
+msgid "hours"
+msgstr "ore"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(nessun aggiornamento programmato)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "In attesa dell'aggiornamento …"
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Copia URL dell'immagine negli appunti"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Aggiorna ora"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Prossimo aggiornamento: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Nessuna descrizione …)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Autore: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(nessun autore indicato...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Licenza: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Nessuno sfondo disponibile"
+
