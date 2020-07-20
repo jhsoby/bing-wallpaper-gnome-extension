@@ -1,136 +1,135 @@
-# Translation of Wikimedia Commons Wallpaper Gnome Extension to Hebrew (עברית)
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Vietnamese (Tiếng Việt)
 # Exported from translatewiki.net
 #
-# Author: YaronSh
-# Author: דגש חזק
+# Author: Nguyễn Mạnh An
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-20 17:44:14+0000\n"
+"PO-Revision-Date: 2020-07-20 17:44:15+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: he\n"
+"Language: vi\n"
 "X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-04-20\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: Settings.ui.h:1
 msgid "Hide the indicator"
-msgstr "הצג מחוון"
+msgstr "Ẩn chỉ báo"
 
 #: Settings.ui.h:2
 msgid "Set background image"
-msgstr "הגדר תמונת רקע"
+msgstr "Đặt hình nền"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr "הגדר תמונת נעילת מסך"
+msgstr "Đặt hình ảnh màn hình khóa"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
-msgstr "הורד תיקיה"
+msgstr "Thư mục tải về:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr "תיקיית תמונות רקע של ויקישיתוף"
+msgstr "Thư mục hình ảnh Commons"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr "מחק טפטים שהורדו בעבר:"
+msgstr "Xóa hình nền đã tải xuống trước đó:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr "מספר הטפטים הקיימים לפני המחיקה הראשונה:"
+msgstr "Số lượng hình nền để lưu trữ trước khi xóa cũ nhất:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr "זמן (בשעות) בין עדכונים אוטומטיים:"
+msgstr "Giờ giữa các bản cập nhật tự động:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
-msgstr "רזולוציית מסך:"
+msgstr "Độ phân giải màn hình:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr "עקוף את בחירות הרזולוציה האוטומטית"
+msgstr "Ghi đè lựa chọn độ phân giải tự động"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
-msgstr "הגדרות"
+msgstr "Tùy chọn"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr "גרסת סיומת מעטפת זעירה:"
+msgstr "Phiên bản mở rộng vỏ Gnome:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr "משנה את הטפטים שלך לתמונות שנבחרו מתוך [[c:|ויקישיתוף]] בפרקי זמן קבועים. מציג את הכותרת, היוצר והרישיון של התמונות."
+msgstr "Thay đổi hình nền của bạn thành hình ảnh được chọn từ Wikimedia Commons theo các khoảng thời gian đã đặt. Hiển thị tiêu đề, tác giả và giấy phép của hình ảnh."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr "באדיבות Jon Harald Søby"
+msgstr "Duy trì bởi Jon Harald Søby"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr "מבוסס על הרחבת תמונת הרקע מ־Bing ל־Gnome מאת מיכאל קרול, שפותחה על בסיס ההרחבה NASA APOD ל־Gnome shell מאת אלה ארג׳נטיארי."
+msgstr ""
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr "<span size=\"small\">תכנית זו מופצת ללא שום אחריות.\nיש לעיין ב<a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">גרסה 3 ומעלה של הרישיון הציבורי הכללי שלGNU</a> לפרטים נוספים.</span>"
+msgstr ""
 
 #: Settings.ui.h:19
 msgid "About"
-msgstr "אודות"
+msgstr "Giới thiệu"
 
 #: extension.js:76 extension.js:79
 msgid "minutes"
-msgstr "דקות"
+msgstr "phút"
 
 #: extension.js:82
 msgid "days"
-msgstr "ימים"
+msgstr "ngày"
 
 #: extension.js:85
 msgid "hours"
-msgstr "שעות"
+msgstr "giờ"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr "לא תוזמן רענון"
+msgstr "(Không có lịch làm mới)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr "ממתין לרענון"
+msgstr "Đang chờ làm mới"
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
-msgstr "העתק קישור URL של התמונה ללוח"
+msgstr "Sao chép URL hình ảnh vào clipboard"
 
 #: extension.js:136
 msgid "Refresh now"
-msgstr "רענן עכשיו"
+msgstr "Làm mới ngay bây giờ"
 
 #: extension.js:169
 msgid "Next refresh: $1 ($2)"
-msgstr "רענון הבא: $1 ($2)"
+msgstr "Lần làm mới tiếp theo: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr "(אין תיאור...)"
+msgstr "(Không có mô tả …)"
 
 #: extension.js:266
 msgid "Creator: $1"
-msgstr "יוצר: $1"
+msgstr "Người tạo: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr "(אין יוצר ברשימה ...)"
+msgstr "(Không có người tạo được liệt kê)"
 
 #: extension.js:271
 msgid "License: $1"
-msgstr "רישיון: $1"
+msgstr "Giấy phép: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr "אין טפטים זמינים"
+msgstr "Không có hình nền có sẵn"
 
