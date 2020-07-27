@@ -5,12 +5,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-20 17:44:15+0000\n"
+"PO-Revision-Date: 2020-07-27 16:20:12+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: vec\n"
-"X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-04-20\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-07-20\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Settings.ui.h:1
