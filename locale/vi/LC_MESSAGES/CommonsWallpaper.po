@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-27 16:20:12+0000\n"
+"PO-Revision-Date: 2020-08-21 15:19:15+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -71,7 +71,7 @@ msgstr "Duy trì bởi Jon Harald Søby"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Dựa trên phần mở rộng Bing Wallpaper Gnome của Michael Carroll, một lần nữa dựa trên phần mở rộng shell APOD Gnome của NASA bởi Ella Argentieri."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
