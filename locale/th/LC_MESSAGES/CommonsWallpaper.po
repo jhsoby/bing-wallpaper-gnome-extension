@@ -1,11 +1,12 @@
 # Translation of Wikimedia Commons Wallpaper Gnome Extension to Thai (ไทย)
 # Exported from translatewiki.net
 #
+# Author: Horus
 # Author: Patsagorn Y.
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-08-13 17:14:05+0000\n"
+"PO-Revision-Date: 2020-08-24 13:22:20+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -47,7 +48,7 @@ msgstr "ความถี่ของการเปลี่ยนภาพพ
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
-msgstr "ความละเอียดหน้าจอ"
+msgstr "ความละเอียดหน้าจอ:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
@@ -95,11 +96,11 @@ msgstr "ชั่วโมง"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr "(ไม่ได้รีเฟรชตามตาราง)"
+msgstr "(ไม่มีรีเฟรชตามกำหนดเวลา)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr "กรุณารอซักครู่ขณะรีเฟรช..."
+msgstr "กำลังรีเฟรช ..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
@@ -115,7 +116,7 @@ msgstr "รีเฟรชครั้งต่อไป: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr "(ไม่มีคำอธิบาย)"
+msgstr "(ไม่มีคำอธิบาย ...)"
 
 #: extension.js:266
 msgid "Creator: $1"
@@ -123,7 +124,7 @@ msgstr "ผู้สร้างสรรค์: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr "(ไม่พบชื่อผู้สร้างสรรค์)"
+msgstr "(ไม่พบชื่อผู้สร้างสรรค์ ...)"
 
 #: extension.js:271
 msgid "License: $1"
