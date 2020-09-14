@@ -1,12 +1,13 @@
 # Translation of Wikimedia Commons Wallpaper Gnome Extension to Russian (русский)
 # Exported from translatewiki.net
 #
+# Author: Facenapalm
 # Author: Kareyac
 # Author: Okras
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-27 16:20:12+0000\n"
+"PO-Revision-Date: 2020-09-14 15:00:27+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,19 +33,19 @@ msgstr "Папка для загрузки:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr ""
+msgstr "Папка для картинок Commons Wallpaper"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr ""
+msgstr "Удалить ранее загруженные обои:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr ""
+msgstr "Допустимое число хранимых фонов перед началом удаления старых:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr ""
+msgstr "Часов между автоматическими обновлениями:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
@@ -52,7 +53,7 @@ msgstr "Разрешение экрана:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr ""
+msgstr "Переопределить автоматический выбор разрешения"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
@@ -60,27 +61,27 @@ msgstr "Настройки"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr ""
+msgstr "Версия расширения оболочки Gnome:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr ""
+msgstr "Меняет обои на рабочем столе на избранные изображения с Викисклада через определённые промежутки времени. Отображает название, автора и лицензию изображений."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr ""
+msgstr "Поддерживается Йоном Харальдом Сёбю"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Основано на расширении Gnome Bing Wallpaper, созданном Майклом Кэрролом, которое, в свою очередь, основано на расширении оболочки Gnome NASA APOD за авторством Эллы Аргентьери."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">Программа поставляется БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ.\nСм. <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, версия 3 или более поздняя</a>, для получения подробностей.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
-msgstr ""
+msgstr "О программе"
 
 #: extension.js:76 extension.js:79
 msgid "minutes"
@@ -116,7 +117,7 @@ msgstr "Следующее обновление: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr "(Нет описания… )"
+msgstr "(Нет описания…)"
 
 #: extension.js:266
 msgid "Creator: $1"
@@ -124,7 +125,7 @@ msgstr "Автор: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr ""
+msgstr "(Нет перечисленных авторов…)"
 
 #: extension.js:271
 msgid "License: $1"
@@ -132,5 +133,5 @@ msgstr "Лицензия: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr ""
+msgstr "Нет доступных обоев"
 
