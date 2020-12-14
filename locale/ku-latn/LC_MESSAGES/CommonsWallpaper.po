@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Kurdish (Latin script) (kurdî (latînî)‎)
+# Exported from translatewiki.net
+#
+# Author: Bikarhêner
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2020-12-14 14:03:25+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ku-Latn\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-10-28\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Nîşanderê biveşêre"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Wêneya piştzemînê saz bike"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Wêneya ekrana kilîdê saz bike"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Peldankê daxîne:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Commons peldanka rismên kaxiza dîwarê"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Kaxizên dîwarê ên ji berê de hatine daxistin jê bibe:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Nimreya kaxizên dîwarê yên bên muhafezekirin berî ku ên kevintirîn jê bên birin:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Saetên di navbera rojanekirinên otomatîk de:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Averûtiya ekranê:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Bijartina averûtiya otomatîk biguherîne"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Mîheng"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Gnome versiyona pêveka qalikê:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Kaxiza te ya dîwarê bi navberên diyarkirî bi rismên ji Wîkîmedya Commonsê bijartî diguherîne. Sernav, çêker û lîsansa wêneyan nîşan dide."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Ji aliyê Jon Harald Søby ve tê pêşkêşkirin"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr ""
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Derbar"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "deqe"
+
+#: extension.js:82
+msgid "days"
+msgstr "roj"
+
+#: extension.js:85
+msgid "hours"
+msgstr "saet"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Nûkirina plankirî tine ye)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Li hêviya nûkirinê ye..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "URLya wêneyê kopî bike panoyê"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Vêga nû bike"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Nûkirina din: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Danasîn tine …)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Çêker: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Çêkerê lîstekirî tine …)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Lîsans: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Kaxizeke dîwarê yê berdest nîne"
+
