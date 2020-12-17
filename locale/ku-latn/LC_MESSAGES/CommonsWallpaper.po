@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-12-14 14:03:25+0000\n"
+"PO-Revision-Date: 2020-12-17 14:11:31+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -71,11 +71,11 @@ msgstr "Ji aliyê Jon Harald Søby ve tê pêşkêşkirin"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Esasa xwe ji Gnome Kaxiza Dîwarê ya Bingê yê Michael Carroll digire ku ew jî esasa xwe ji qalika Gnome-ê ya NASA APOD yê ji aliyê Ella Argentieri ve digire."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">Ev bername tevî QETÎYEN BÊGARANTÎ-tiyê tê.\nBinêre <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU Lîsansa Giştî ya Gelemperî, versiyona 3yem an piştre</a> ji bo detayan.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
