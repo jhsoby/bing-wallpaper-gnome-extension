@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-12-29 07:47:01+0000\n"
+"PO-Revision-Date: 2021-01-11 16:35:38+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +43,7 @@ msgstr "Numer de imagin de sfond de conservà inanz de scancelà chi pussée veg
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr "Ore infra un asgiornament automatich e quel adrée:"
+msgstr "Ore infra 'n asgiornament automatich e quell adree:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
@@ -75,7 +75,7 @@ msgstr "Fondada sora l'estension de GNOME Shell Bing Wallpaper de Michael Carrol
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr "<span size=\"small\">Quel programa chì l'è mandad foeura SENZA NISSUNA GARANZIA.\nVarda la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 o quei vegnude adree,</a> per dettagli.</span>"
+msgstr "<span size=\"small\">Quell programa chì l'è mandad foeura SENZA NISSUNA GARANZIA.\nVarda la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 o quei vegnude adree,</a> per dettagli.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
