@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-01-21 14:07:20+0000\n"
+"PO-Revision-Date: 2021-01-25 17:02:13+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +24,7 @@ msgstr "배경 이미지 설정"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr "잠금화면 사진 설정"
+msgstr "잠금 화면 이미지 설정"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
@@ -32,7 +32,7 @@ msgstr "다운로드 폴더:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr "커먼즈 배경화면 사진 폴더"
+msgstr "공용 배경화면 사진 폴더"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
@@ -64,7 +64,7 @@ msgstr "그놈 셸 확장 버전:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr "설정된 간격으로 위키미디어 커먼즈에서 선택한 사진으로 배경화면을 변경합니다. 사진의 제목, 작성자 및 라이선스를 표시합니다."
+msgstr "설정된 간격으로 위키미디어 공용에서 선택한 사진으로 배경화면을 변경합니다. 사진의 제목, 작성자 및 라이선스를 표시합니다."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
@@ -76,7 +76,7 @@ msgstr "Michael Carroll의 Bing Wallpaper Gnome 확장 프로그램을 기반으
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr "<span size=\"small\">이 프로그램에 대한 보증을 일체 제공하지 않습니다.\n자세한 사항은 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">버전 3 이후의 GNU General Public License</a>를 참고하십시오.</span>"
+msgstr "<span size=\"small\">이 프로그램에 대한 보증을 일체 제공하지 않습니다.\n자세한 사항은 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">버전 3 이상의 GNU 일반 공중 사용 허가서</a>를 참고하십시오.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
@@ -96,11 +96,11 @@ msgstr "시간"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr "(새로고침 예약 안 됨)"
+msgstr "(새로 고침 예약 안 됨)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr "새로고침 대기 중..."
+msgstr "새로 고침 대기 중 ..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
@@ -124,7 +124,7 @@ msgstr "만든이: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr "(목록에 창작자 없음...)"
+msgstr "(창작자가 나열되지 않음 ...)"
 
 #: extension.js:271
 msgid "License: $1"
