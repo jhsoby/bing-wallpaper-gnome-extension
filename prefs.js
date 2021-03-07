@@ -16,7 +16,7 @@ const _ = Gettext.gettext;
 
 let settings;
 
-let resolutions = [ 'auto', '1920x1200', '1920x1080', '1366x768', '1280x720', '1024x768', '800x600'];
+let resolutions = [ 'auto', '3840x2160', '2560x1440', '1920x1200', '1920x1080', '1366x768', '1280x720', '1024x768', '800x600'];
 
 function init() {
     settings = Utils.getSettings(Me);
