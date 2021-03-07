@@ -39,6 +39,12 @@
       <description></description>
     </key>
 
+    <key name="image-list-page" type="s">
+      <default>"User:Jon_Harald_Søby/wallpapers.json"</default>
+      <summary>Page on Wikimedia Commons listing images.</summary>
+      <description></description>
+    </key>
+
     <key name="resolution" type="s">
       <default>"auto"</default>
       <summary>Screen Size</summary>
@@ -50,7 +56,7 @@
         <summary>Log messages to systemd journal</summary>
         <description>Unlikely to be useful for ordinary users, but helpful for debugging</description>
     </key>
-    
+
     <key name="delete-previous" type="b">
       <default>false</default>
         <summary>Delete previous wallpapers</summary>

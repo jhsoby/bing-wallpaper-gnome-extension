@@ -37,6 +37,7 @@ function buildPrefsWidget(){
     let bgSwitch = buildable.get_object('background');
     let lsSwitch = buildable.get_object('lock_screen');
     let fileChooser = buildable.get_object('download_folder');
+    let imageList = buildable.get_object('image_list_page');
     let resolutionEntry = buildable.get_object('resolution');
     let deleteSwitch = buildable.get_object('delete_previous');
     let daysSpin = buildable.get_object('days_after_spinbutton');
@@ -64,6 +65,9 @@ function buildPrefsWidget(){
     fileChooser.connect('file-set', function(widget) {
         settings.set_string('download-folder', widget.get_filename());
     });
+
+    // image list page
+    settings.bind('image-list-page', imageList, 'text', Gio.SettingsBindFlags.DEFAULT);
 
     resolutions.forEach(function (res) { // add res to dropdown list (aka a GtkComboText)
         resolutionEntry.append(res, res);

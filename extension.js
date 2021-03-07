@@ -1,3 +1,5 @@
+/* jslint esversion: 6 */
+
 const St = imports.gi.St;
 const Main = imports.ui.main;
 const MessageTray = imports.ui.messageTray;
@@ -20,8 +22,8 @@ const Convenience = Me.imports.convenience;
 const Gettext = imports.gettext.domain('CommonsWallpaper');
 const _ = Gettext.gettext;
 
-const ImageListURL = "https://commons.wikimedia.org/w/index.php?title=User:Jon_Harald_S%C3%B8by/wallpapers.json&action=raw&ctype=application/json";
-const CommonsImageURLbase = "https://commons.wikimedia.org/w/api.php?format=json&action=query&prop=imageinfo&iiprop=url|extmetadata&iiextmetadatafilter=ImageDescription|Artist|LicenseUrl|LicenseShortName&titles="
+const DefaultImageListPage = "User:Jon_Harald_Søby/wallpapers.json";
+const CommonsImageURLbase = "https://commons.wikimedia.org/w/api.php?format=json&action=query&prop=imageinfo&iiprop=url|extmetadata&iiextmetadatafilter=ImageDescription|Artist|LicenseUrl|LicenseShortName&titles=";
 const CommonsURL = "https://commons.wikimedia.org";
 const IndicatorName = "CommonsWallpaperIndicator";
 const TIMEOUT_SECONDS_ON_HTTP_ERROR = 1 * 3600; // retry in one hour if there is a http error
@@ -212,6 +214,16 @@ const CommonsWallpaperIndicator = new Lang.Class({
 
         this._restartTimeout();
 
+        let ImageListPage = this._settings.get_string('image-list-page');
+        if (ImageListPage == '') {
+            ImageListPage = DefaultImageListPage;
+        }
+        ImageListPage = ImageListPage.replace(' ', '_');
+        this._settings.set_string('image-list-page', ImageListPage);
+        let ImageListURL = 'https://commons.wikimedia.org/w/index.php?title=' +
+            encodeURI(ImageListPage) + '&action=raw&ctype=application/json';
+        log("Image list page detected as https://commons.wikimedia.org/wiki/" + ImageListPage);
+
         let APIrequest = Soup.Message.new('GET', ImageListURL);
         httpSession.queue_message(APIrequest, Lang.bind(this, function(httpSession, message) {
             if (message.status_code == 200) {
@@ -221,7 +233,7 @@ const CommonsWallpaperIndicator = new Lang.Class({
 		if (heightmatters) {
                     size = '&iiurlheight=' + this.resH;
                 }
-		let request = Soup.Message.new('GET', CommonsImageURLbase + encodeURI(chosen1) + size); 
+		let request = Soup.Message.new('GET', CommonsImageURLbase + encodeURI(chosen1) + size);
                 httpSession.queue_message(request, Lang.bind(this, function(httpSession, message2) {
                     if (message2.status_code == 200) {
                         let data2 = message2.response_body.data;
@@ -240,7 +252,7 @@ const CommonsWallpaperIndicator = new Lang.Class({
 
     _parseData: function(data) {
         let parsed = JSON.parse(data)['query']['pages'];
-        let imagejson = parsed[Object.keys(parsed)[0]]
+        let imagejson = parsed[Object.keys(parsed)[0]];
         let imageinfo = imagejson['imageinfo']['0'];
 
         log('JSON returned (raw):\n' + data);
@@ -248,10 +260,10 @@ const CommonsWallpaperIndicator = new Lang.Class({
         function shortField(text) {
             text = text.replace(/<[^>]+>/g, '').replace(/\n/g, ' ');
             if (text.length > 70) {
-                text = text.substring(0,68) + ' …'
+                text = text.substring(0,68) + ' …';
             }
             return text;
-        };
+        }
 
         if (imageinfo['thumburl']) {
             if (imageinfo['thumbheight'] < parseInt(this.resH)) {
@@ -308,7 +320,6 @@ const CommonsWallpaperIndicator = new Lang.Class({
                 let changed = this._setBackground();
                 this._updatePending = false;
             }
-            
         } else {
             this.title = _("No wallpaper available");
             this.filename = "";
@@ -318,7 +329,7 @@ const CommonsWallpaperIndicator = new Lang.Class({
     },
 
     _download_image: function(url, file) {
-        log("Downloading " + url + " to " + file.get_uri())
+        log("Downloading " + url + " to " + file.get_uri());
 
         // open the Gfile
         let fstream = file.replace(null, false, Gio.FileCreateFlags.NONE, null);
