@@ -1,9 +1,9 @@
 {
     "uuid": "CommonsWallpaper@jhsoby-gmail.com",
-    "shell-version": ["3.18", "3.20", "3.22", "3.24", "3.24.2", "3.26", "3.28", "3.30", "3.32"],
+    "shell-version": ["3.28", "3.30", "3.32", "3.34", "3.36"],
     "name": "Wikimedia Commons Wallpaper Changer",
     "settings-schema": "org.gnome.shell.extensions.commonswallpaper",
     "description": "Lightweight GNOME shell extension to change your wallpaper daily (or whenever you prefer) to a selected wallpaper-suitable image from Wikimedia Commons, curated by the community. It will also show a notification containing the description, author and license of the image.\n\n*Disclaimer:* This extension is unofficial and community-maintained.\n\nThis extension is based extensively on the Bing Wallpaper extension by Michael Carroll (https://github.com/neffo), which is in turned based on the NASA APOD extension by Elinvention (https://github.com/Elinvention).\n\nFeatures:\n* Fetches a new random wallpaper from a curated list every day (or how often you prefer) and sets as both lock screen and desktop wallpaper (these are both user-selectable)\n*Automatically selects the highest resolution (and most appropriate wallpaper) in multiple monitor setups\n* Optionally clean up wallpaper directory after between 1 and 7 days (delete oldest first)\n* Only updates as often as you set it to, or when you manually choose to change the wallpaper\n* Translations\n\nPlease report bugs to the GitHub page below",
-    "version": "1",
+    "version": "2",
     "url": "https://github.com/jhsoby/commons-wallpaper-gnome-extension"
 }
