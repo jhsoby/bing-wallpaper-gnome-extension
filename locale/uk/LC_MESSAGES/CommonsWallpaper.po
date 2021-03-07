@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Ukrainian (українська)
+# Exported from translatewiki.net
+#
+# Author: Piramidion
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:27+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=3; plural=(n%10 == 1 && n%100 != 11) ? 0 : ( (n%10 >= 2 && n%10 <= 4 && (n%100 < 10 || n%100 >= 20)) ? 1 : 2 );\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Приховати індикатор"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Встановити фонове зображення"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Встановити зображення для екрану блокування"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Тека завантаження:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Тека із зображеннями — шпалерами з Вікісховища"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Вилучити раніше завантажені шпалери:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Вилучати найстаріші шпалери, коли кількість наявних перевищить:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Кількість годин між автоматичними оновленнями:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Роздільність екрана:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Ігнорувати автоматичний вибір роздільності"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Налаштування"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "версія розширення оболонки Gnome:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Змінює ваші шпалери на вибрані зображення з Вікісховища за встановлений інтервал часу. Показує назву, автора і ліцензію для кожного зображення."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Технічне обслуговування здійснює Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Засновано на розширенні Bing Wallpaper Gnome від Майкла Керролла, яке, у свою чергу, засноване на розширенні NASA APOD оболонки Gnome від Елли Арґентьєрі."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Ця програма не надає АБСОЛЮТНО ЖОДНОЇ ГАРАНТІЇ.\nДив. <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">ліцензію GNU General Public License, версію 3 чи пізнішу</a>, якщо хочете дізнатися більше.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Опис"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "хвилин"
+
+#: extension.js:82
+msgid "days"
+msgstr "днів"
+
+#: extension.js:85
+msgid "hours"
+msgstr "годин"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Оновлення не заплановано)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Очікується оновлення..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Скопіювати URL-адресу зображення в буфер обміну"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Оновити прямо зараз"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Наступне оновлення: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Немає опису ...)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Творець: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Творця не вказано ...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Ліцензія: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Немає доступних шпалер"
+

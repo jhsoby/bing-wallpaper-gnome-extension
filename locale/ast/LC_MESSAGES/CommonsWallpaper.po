@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Asturian (asturianu)
+# Exported from translatewiki.net
+#
+# Author: Xuacu
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ast\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Anubrir l'indicador"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Establecer la imaxe de fondu"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Establecer la imaxe de bloquéu de pantalla"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Carpeta de descargues:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Carpeta d'imáxenes de fondu de pantalla de Commons"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Desaniciar fondos de pantalla descargaos anteriormente:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Númberu de fondos de pantalla a guardar antes de desaniciar los más vieyos:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Hores ente anovamientos automáticos:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Resolución de pantalla:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Saltar la seleición automática de resolución"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Configuración"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Versión de la estensión de Gnome Shell:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Cambia'l fondu de pantalla por semeyes de Wikimedia Commons n'intervalos determinaos. Amuesa'l títulu, creador y llicencia de les semeyes."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Calteníu por Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Basada na estensión de Gnome Bing Wallpaper de Michael Carroll, que ella mesma basóse na estensión de Gnome Shell NASA APOD d'Ella Argentieri."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Esti programa vien ABSOLUTAMENTE ENSIN GARANTÍA DALA.\nVer la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">Llicencia Pública Xeneral GNU, versión 3 o mayor</a> pa más detalles.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Tocante a"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "minutos"
+
+#: extension.js:82
+msgid "days"
+msgstr "díes"
+
+#: extension.js:85
+msgid "hours"
+msgstr "hores"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Nun se programó refrescu)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Esperando refrescu …"
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Copiar URL de la imaxe nel cartafueyu"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Refrescar agora"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Siguiente refrescu: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Ensin descripción…)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Creador: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Nun se llista un creador…)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Llicencia: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Nun ta disponible nengún fondu"
+

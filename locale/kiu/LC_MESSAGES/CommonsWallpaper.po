@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Kirmanjki (Kırmancki)
+# Exported from translatewiki.net
+#
+# Author: Orbot707
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kiu\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Asengehi bınımnê"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Resimê planê peyêni eyar ke"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Asayışê ekranê kıliti eyar ke"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Klasorê ronayışi:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Klasorê resimê kağıdê dêsê Commonsi"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Veror roneyaye kağıdanê dêsi bıesternê:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Verê esterıtışê tewr peyêni amora kağıdanê dêsê şeveknayan:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Sehata mabênê rocaneyışanê otomatikan:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Agoznayışê ekrani:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Weçinayışê agoznayışê otomatiki deaktiv kerê"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Eyari"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Derganeya versiyonê qabığê Gnomey:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Kağıdê dêsi, nışanyayê mabênan ra Wikimedia Commons ra weçineyaye resiman ra vıriyeno. Namey resiman vıraştoği u lisansi mocneno."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Terefê Jon Harald Søby ra"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Kağıdê dêsê Bingi azıkiya derganiye Gnome ra Michael Carroll, reyna terefê Ella Argentieri ra vêreno derganiya kabığê NASA APOD'i."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">No program QETİYEN GARANTİ ÇINIYO.\nSeba detayan rê letey <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">lisansê şarê umumiyanê GNU, versiyonê 3 ya zi berzi</a> bıvinê .</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Heqa"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "deqiqey"
+
+#: extension.js:82
+msgid "days"
+msgstr "rozi"
+
+#: extension.js:85
+msgid "hours"
+msgstr "saeti"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Anewe kerdış zeman nêbiyo)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Anewe kerdış pawyeno..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Gırey resımi kopyay panoy ke"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Enewke anewe ke"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Anewe kerdışo badoyên : $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Arezekerdış çıniyo...)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Vıraştoğ:$1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Qet zerrek liste nêbiyo...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Lisanse: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Wallpeper çıniyo"
+

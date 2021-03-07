@@ -1,0 +1,136 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Thai (ไทย)
+# Exported from translatewiki.net
+#
+# Author: Horus
+# Author: Patsagorn Y.
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:27+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "ซ่อนอินดิเคเตอร์"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "ตั้งภาพพื้นหลัง"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "ตั้งภาพพื้นหลังหน้าจอล็อก"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "ดาวน์โหลดโฟลเดอร์:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "โฟลเดอร์ภาพพื้นหลังคอมมอนส์"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "ลบภาพพื้นหลังที่ดาวน์โหลดก่อนหน้า:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "จำนวนของภาพพื้นหลังที่จะเก็บไว้ก่อนลบภาพเก่าทั้งหมด:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "ความถี่ของการเปลี่ยนภาพพื้นหลังอัตโนมัติ (ชั่วโมง):"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "ความละเอียดหน้าจอ:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "ใช้สิ่งนี้แทนการเลือกความละเอียดโดยอัตโนมัติ"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "รุ่นส่วนขยาย Gnome:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "เลือกวอลเปเปอร์ของคุณจากวิกิมีเดียคอมมอนส์และตั้งระยะเวลาเปลี่ยนง่าย ๆ ตามใจคุณ และยังแสดงชื่อภาพ ผู้สร้างสรรค์ และลิขสิทธิ์ของภาพเพื่อการใช้งานที่ไร้กังวล"
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "บำรุงรักษาโดย Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "ได้รับแรงบันดาลใจจากส่วนขยาย Bing Wallpaper Gnome โดย Michael Carroll ซึ่งก็ได้รับแรงบรรดาลใจจากส่วนขยาย NASA APOD Gnome โดย Ella Argentieri เช่นกัน"
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">โปรแกรมนี้มาพร้อมกับการไม่รับประกันใด ๆ โดยหมายให้เกิดประโยชน์แก่ผู้มช้งานเท่านั้น อ่านเพิ่มเติมที่<a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">สัญญาอนุญาตสาธารณะทั่วไปของกนู รุ่น 3 หรือถัดมา</a>สำหรับข้อมูลเพิ่มเติม"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "เกี่ยวกับ"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "นาที"
+
+#: extension.js:82
+msgid "days"
+msgstr "วัน"
+
+#: extension.js:85
+msgid "hours"
+msgstr "ชั่วโมง"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(ไม่มีรีเฟรชตามกำหนดเวลา)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "กำลังรีเฟรช ..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "คัดลอกยูอาร์แอลภาพไปยังคลิปบอร์ด"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "รีเฟรชตอนนี้"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "รีเฟรชครั้งต่อไป: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(ไม่มีคำอธิบาย ...)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "ผู้สร้างสรรค์: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(ไม่พบชื่อผู้สร้างสรรค์ ...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "สัญญาอนุญาต: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "ไม่มีภาพพื้นหลังพร้อมใช้งาน"
+

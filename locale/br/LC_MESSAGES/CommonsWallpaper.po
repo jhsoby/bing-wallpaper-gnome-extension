@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Breton (brezhoneg)
+# Exported from translatewiki.net
+#
+# Author: Fulup
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: br\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Kuzhat ar merker"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Spisaat skeudenn an drekleur"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Spisaat ar skeudenn skramm prennet"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Pelgargañ an renkell :"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Renkell skeudennoù paper-moger boutin"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Dilemel ar paper-moger bet pellgarget kent :"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Niver a baper-moger da stokañ a-raok dilemel ar re goshañ :"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Eurioù etre an hizivadennoù emgefre :"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Pizhder ar skramm :"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Frikañ diuzañ emgefe ar pizhder"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Arventennoù"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Stumm astenn GNOME shell :"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Kemmañ a ra ho paper-moger evit diuzañ skeudennoù eus Wikimedia Commons a-frapadoù reoliek. Diskwel a ra an titl, an aozer, hag aotre-implijout ar skeudennoù."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Meret gant Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Diazezet war astenn paper-moger Gnome Bing Michael Carrol a oa diazezet e-unan war astenn Gnome shell NASA APOD savet gant Ella Argentieri."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Dont a ra ar programm-mañ gant TAMM GWARANT EBET.\nSellit ouzh an <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU Aotre-implijout hollek foran GNU, stumm 3 pe nevesoc'h</a> evit ar munudoù.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Diwar-benn"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "Munutennoù"
+
+#: extension.js:82
+msgid "days"
+msgstr "deizioù"
+
+#: extension.js:85
+msgid "hours"
+msgstr "eurioù"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(tamm freskaat raktreset ebet)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "O c'hortoz ar freskadenn..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Eilañ URL ar skeudenn er golver"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Freskaat bremañ"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Freskadenn da zont : $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Deskrivadur ebet...)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Aozer : $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Aozer ebet renablet...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Aotre-implijout : $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Tamm paper-moger ebet hegerz"
+

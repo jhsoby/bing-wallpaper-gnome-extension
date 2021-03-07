@@ -1,16 +1,18 @@
 # Translation of Wikimedia Commons Wallpaper Gnome Extension to Portuguese (português)
 # Exported from translatewiki.net
 #
+# Author: Hamilton Abreu
+# Author: Mansil
 # Author: Mansil alfalb
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-11-07 15:06:43+0000\n"
+"PO-Revision-Date: 2021-01-28 17:46:27+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pt\n"
-"X-Generator: MediaWiki 1.35.0-alpha; Translate 2019-04-24\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Settings.ui.h:1
@@ -19,39 +21,39 @@ msgstr "Ocultar o indicador"
 
 #: Settings.ui.h:2
 msgid "Set background image"
-msgstr ""
+msgstr "Definir a imagem de fundo"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr ""
+msgstr "Definir a imagem de ecrã bloqueado"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
-msgstr "Pasta de transferências:"
+msgstr "Pasta de descarregamentos:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr ""
+msgstr "Pasta de imagens de fundos da wiki Commons"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr ""
+msgstr "Eliminar fundos descarregados anteriormente:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr ""
+msgstr "Número de fundos a armazenar antes de eliminar o mais antigo:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr ""
+msgstr "Horas entre atualizações automáticas:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
-msgstr "Resolução de ecrã:"
+msgstr "Resolução do ecrã:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr ""
+msgstr "Substituir seleção automática da resolução"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
@@ -59,23 +61,23 @@ msgstr "Configurações"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr ""
+msgstr "Versão da extensão ''shell'' do Gnome:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr ""
+msgstr "Altera o seu papel de parede para imagens selecionadas da wiki Wikimedia Commons, a intervalos definidos. Apresenta o título, o criador e a licença das imagens."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr ""
+msgstr "Manutenção de Jon Harald Søby"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Com base na extensão Bing Wallpaper Gnome, de Michael Carroll, ela mesma baseada na extensão ''shell'' NASA APOD Gnome, de Ella Argentieri."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">Este programa não fornece NENHUMA GARANTIA.\nPara mais detalhes, consulte a <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">Licença Pública Geral GNU, versão 3 ou posterior</a>.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
@@ -95,15 +97,15 @@ msgstr "horas"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr ""
+msgstr "(Não há nenhuma atualização agendada)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr ""
+msgstr "A aguardar atualização..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
-msgstr ""
+msgstr "Copiar URL da imagem para a área de transferência"
 
 #: extension.js:136
 msgid "Refresh now"
@@ -111,7 +113,7 @@ msgstr "Atualizar agora"
 
 #: extension.js:169
 msgid "Next refresh: $1 ($2)"
-msgstr ""
+msgstr "Próxima atualização: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
@@ -123,7 +125,7 @@ msgstr "Criador: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr ""
+msgstr "(Não há nenhum criador listado…)"
 
 #: extension.js:271
 msgid "License: $1"
@@ -131,5 +133,5 @@ msgstr "Licença: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr ""
+msgstr "Não há nenhum fundo disponível"
 

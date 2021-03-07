@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Malayalam (മലയാളം)
+# Exported from translatewiki.net
+#
+# Author: Adithyak1997
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ml\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr ""
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "പശ്ചാത്തല ചിത്രം സജ്ജീകരിക്കുക"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr ""
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr ""
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr ""
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr ""
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr ""
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "യാന്ത്രിക പുതുക്കലുകൾ തമ്മിലുള്ള വ്യത്യാസം (മണിക്കൂറിൽ):"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr ""
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr ""
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "സജ്ജീകരണങ്ങൾ"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr ""
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr ""
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr ""
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr ""
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "വിവരണം"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "മിനിറ്റ്"
+
+#: extension.js:82
+msgid "days"
+msgstr "ദിവസം"
+
+#: extension.js:85
+msgid "hours"
+msgstr "മണിക്കൂർ"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr ""
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "പുതുക്കലിനായി കാത്തിരിക്കുന്നു ..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr ""
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "പുതുക്കുക"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "അടുത്ത പുതുക്കൽ:$1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(വിവരണമൊന്നുമില്ല ...)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "സൃഷ്ടാവ്:$1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr ""
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "അനുമതി:$1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "പശ്ചാത്തലചിത്രം ലഭ്യമല്ല"
+

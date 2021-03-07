@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Lombard (lumbaart)
+# Exported from translatewiki.net
+#
+# Author: Salvemm el lombard
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lmo\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Scond l'indicator"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Imposta l'imagin del sfond"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Imposta l'imagin per quand che 'l schermo l'è blocad"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Descarega la cartella:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Cartela de imagin Commons Wallpaper"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Scancela i sfond descaregad in precedenza"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Numer de imagin de sfond de conservà inanz de scancelà chi pussée vegg:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Ore infra 'n asgiornament automatich e quell adree:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Risoluzzion del schermo"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Sorascriv la selezzion automatica de la risoluzzion"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Impostazzion"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Version de l'estesion de Gnome shell"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Cambia el to sfond con di imagin scernide foeura de Wikimedia Commons a di intervai de temp fissad. Fa vedè el titol, l'autor e la licenza di imagin."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Gestid del Jon Harald Søby"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Fondada sora l'estension de GNOME Shell Bing Wallpaper de Michael Carroli, che a soa volta l'era fondada sora l'estezion NASA APOD de l'Ella Argentieri"
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Quell programa chì l'è mandad foeura SENZA NISSUNA GARANZIA.\nVarda la <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 o quei vegnude adree,</a> per dettagli.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "Informazzion"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "minut"
+
+#: extension.js:82
+msgid "days"
+msgstr "dì"
+
+#: extension.js:85
+msgid "hours"
+msgstr "ore"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(nissun asgiornament programmad)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "Adrée a spettà l'asgiornament..."
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Copia l'URL de l'imagin in di apunt"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Sgiorna adess"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Prossim asgiornament: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Nissuna descrizzion …)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Autor: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(nissun autor indicad...)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Licenza: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Nissun sfond disponibil"
+

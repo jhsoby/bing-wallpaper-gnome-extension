@@ -2,20 +2,21 @@
 # Exported from translatewiki.net
 #
 # Author: Ykhwong
+# Author: 그냥기여자
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-11-04 14:47:02+0000\n"
+"PO-Revision-Date: 2021-01-28 17:46:26+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
-"X-Generator: MediaWiki 1.35.0-alpha; Translate 2019-04-24\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: Settings.ui.h:1
 msgid "Hide the indicator"
-msgstr ""
+msgstr "표시 숨기기"
 
 #: Settings.ui.h:2
 msgid "Set background image"
@@ -23,7 +24,7 @@ msgstr "배경 이미지 설정"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr ""
+msgstr "잠금 화면 이미지 설정"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
@@ -31,15 +32,15 @@ msgstr "다운로드 폴더:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr ""
+msgstr "공용 배경화면 사진 폴더"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr ""
+msgstr "이전에 내려받은 배경화면 삭제:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr ""
+msgstr "최대 보관 배경화면 수(초과 시 오래된 항목부터 삭제):"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
@@ -51,7 +52,7 @@ msgstr "화면 해상도:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr ""
+msgstr "자동 해상도 선택 무시"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
@@ -63,19 +64,19 @@ msgstr "그놈 셸 확장 버전:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr ""
+msgstr "설정된 간격으로 위키미디어 공용에서 선택한 사진으로 배경화면을 변경합니다. 사진의 제목, 작성자 및 라이선스를 표시합니다."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr ""
+msgstr "Jon Harald Søby 지원"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Michael Carroll의 Bing Wallpaper Gnome 확장 프로그램을 기반으로 하며, 이는 Ella Argentieri의 NASA APOD Gnome 셸 확장 프로그램을 기반으로 합니다."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">이 프로그램에 대한 보증을 일체 제공하지 않습니다.\n자세한 사항은 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">버전 3 이상의 GNU 일반 공중 사용 허가서</a>를 참고하십시오.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
@@ -87,7 +88,7 @@ msgstr "분"
 
 #: extension.js:82
 msgid "days"
-msgstr ""
+msgstr "일"
 
 #: extension.js:85
 msgid "hours"
@@ -95,11 +96,11 @@ msgstr "시간"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr ""
+msgstr "(새로 고침 예약 안 됨)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr ""
+msgstr "새로 고침 대기 중 ..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
@@ -123,7 +124,7 @@ msgstr "만든이: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr ""
+msgstr "(창작자가 나열되지 않음 ...)"
 
 #: extension.js:271
 msgid "License: $1"
@@ -131,5 +132,5 @@ msgstr "라이선스: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr ""
+msgstr "설정 가능한 배경화면 없음"
 

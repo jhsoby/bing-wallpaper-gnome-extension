@@ -1,0 +1,137 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Russian (русский)
+# Exported from translatewiki.net
+#
+# Author: Facenapalm
+# Author: Kareyac
+# Author: Okras
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-01-28 17:46:27+0000\n"
+"X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"Plural-Forms: nplurals=3; plural=(n%10 == 1 && n%100 != 11) ? 0 : ( (n%10 >= 2 && n%10 <= 4 && (n%100 < 10 || n%100 >= 20)) ? 1 : 2 );\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "Скрыть индикатор"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "Установить фоновое изображение"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "Установить изображение экрана блокировки"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "Папка для загрузки:"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "Папка для картинок Commons Wallpaper"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "Удалить ранее загруженные обои:"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "Допустимое число хранимых фонов перед началом удаления старых:"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "Часов между автоматическими обновлениями:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "Разрешение экрана:"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "Переопределить автоматический выбор разрешения"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "Настройки"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "Версия расширения оболочки Gnome:"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "Меняет обои на рабочем столе на избранные изображения с Викисклада через определённые промежутки времени. Отображает название, автора и лицензию изображений."
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "Поддерживается Йоном Харальдом Сёбю"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr "Основано на расширении Gnome Bing Wallpaper, созданном Майклом Кэрролом, которое, в свою очередь, основано на расширении оболочки Gnome NASA APOD за авторством Эллы Аргентьери."
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr "<span size=\"small\">Программа поставляется БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ.\nСм. <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, версия 3 или более поздняя</a>, для получения подробностей.</span>"
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr "О программе"
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr "минуты"
+
+#: extension.js:82
+msgid "days"
+msgstr "дни"
+
+#: extension.js:85
+msgid "hours"
+msgstr "часы"
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr "(Обновление не запланировано)"
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr "В ожидании обновления…"
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr "Скопировать URL-адрес изображения в буфер обмена"
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr "Обновить сейчас"
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr "Следующее обновление: $1 ($2)"
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr "(Нет описания…)"
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr "Автор: $1"
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr "(Нет перечисленных авторов…)"
+
+#: extension.js:271
+msgid "License: $1"
+msgstr "Лицензия: $1"
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr "Нет доступных обоев"
+
