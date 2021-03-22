@@ -1,137 +1,135 @@
-# Translation of Wikimedia Commons Wallpaper Gnome Extension to German (Deutsch)
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Slovenian (slovenščina)
 # Exported from translatewiki.net
 #
-# Author: DraconicDark
-# Author: FF11
-# Author: Ubahnverleih
+# Author: Eleassar
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-03-22 14:36:45+0000\n"
+"PO-Revision-Date: 2021-03-22 14:36:46+0000\n"
 "X-POT-Import-Date: 2019-10-28 13:58:15+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Language: sl\n"
 "X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=4; plural=(n%100 == 1) ? 0 : ( (n%100 == 2) ? 1 : ( (n%100 == 3 || n%100 == 4) ? 2 : 3 ) );\n"
 
 #: Settings.ui.h:1
 msgid "Hide the indicator"
-msgstr "Den Indikator ausblenden"
+msgstr "Skrij indikator"
 
 #: Settings.ui.h:2
 msgid "Set background image"
-msgstr "Hintergrundbild einstellen"
+msgstr "Nastavi sliko ozadja"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr "Sperrbild einstellen"
+msgstr "Nastavi sliko zaklenjenega otroka"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
-msgstr "Ordner zum Herunterladen:"
+msgstr "Mapa za prenos:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr "Commons Walpaper-Bilderordner"
+msgstr "Mapa s slikami za ozadje iz Zbirke"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr "Zuletzt heruntergeladene Hintergrundbilder löschen:"
+msgstr "Izbriši predhodno prenesene slike za ozadje:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr "Anzahl der Hintergrundbilder, die aufbewahrt werden soll, bevor das älteste gelöscht wird:"
+msgstr "Število slik za ozadje, ki se shranijo pred izbrisom najstarejše:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr ""
+msgstr "Število ur med samodejnimi posodobitvami:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
-msgstr "Bildschirmauflösung:"
+msgstr "Ločljivost zaslona:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr ""
+msgstr "Povozi samodejno izbiro ločljivosti"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "Nastavitve"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr ""
+msgstr "Različica lupinske razširitve Gnome:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr ""
+msgstr "V nastavljenem intervalu menjava vašo sliko za ozadje z izbranimi slikami iz Wikimedijine zbirke. Prikazuje naslov, avtorja in licenco slik."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr "Betreut von Jon Harald Søby"
+msgstr "Vzdržuje Jon Harald Søby"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Na podlagi razširitve Gnome avtorja Michaela Carrolla za Bingove slike za ozadje, ki temelji na lupinski razširitvi NASA APOD Gnome Elle ARgentieri."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">Ta program ne zagotavlja POPOLNOMA NOBENEGA JAMSTVA.\nZa podrobnosti glejte <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">licenco GNU General Public License različice 3 ali novejše</a>.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
-msgstr "Über"
+msgstr "O orodju"
 
 #: extension.js:76 extension.js:79
 msgid "minutes"
-msgstr "Minuten"
+msgstr "minute"
 
 #: extension.js:82
 msgid "days"
-msgstr "Tage"
+msgstr "dnevi"
 
 #: extension.js:85
 msgid "hours"
-msgstr "Stunden"
+msgstr "ure"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr ""
+msgstr "(brez načrtovanega osveževanja)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr ""
+msgstr "Čakam na osvežitev ..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
-msgstr ""
+msgstr "Skopiraj URL slike na odložišče"
 
 #: extension.js:136
 msgid "Refresh now"
-msgstr ""
+msgstr "Osveži zdaj"
 
 #: extension.js:169
 msgid "Next refresh: $1 ($2)"
-msgstr ""
+msgstr "Naslednja osvežitev: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr ""
+msgstr "(Brez opisa ...)"
 
 #: extension.js:266
 msgid "Creator: $1"
-msgstr "Urheber: $1"
+msgstr "Avtor: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr ""
+msgstr "(Avtor ni naveden ...)"
 
 #: extension.js:271
 msgid "License: $1"
-msgstr "Lizenz: $1"
+msgstr "Licenca: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr ""
+msgstr "Na voljo ni nobena slika za ozadje"
 
