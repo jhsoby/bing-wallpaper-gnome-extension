@@ -2,13 +2,14 @@
 # Exported from translatewiki.net
 #
 # Author: Jon Harald Søby
+# Author: Ranveig
 msgid ""
 msgstr ""
 ""
 "Project-Id-Version: 1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-24 16:46+0200\n"
-"PO-Revision-Date: 2021-05-07 08:48:10+0000\n"
+"PO-Revision-Date: 2021-05-17 11:06:25+0000\n"
 "Last-Translator: Jon Harald Søby <jhsoby@gmail.com>\n"
 "Language-Team: \n"
 "Language: nn\n"
@@ -29,7 +30,7 @@ msgstr "Skjul indikatoren"
 
 #: Settings.ui.h:2
 msgid "Set background image"
-msgstr "Sett bakgrunnsbildete"
+msgstr "Sett bakgrunnsbilete"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
