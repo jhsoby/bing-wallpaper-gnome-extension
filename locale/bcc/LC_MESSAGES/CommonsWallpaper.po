@@ -1,0 +1,135 @@
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Southern Balochi (جهلسری بلوچی)
+# Exported from translatewiki.net
+#
+# Author: Sultanselim baloch
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2021-05-31 08:00:35+0000\n"
+"X-POT-Import-Date: 2021-05-26 12:33:03+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bcc\n"
+"X-Generator: MediaWiki 1.36.0-rc.0; Translate 2021-04-28\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Settings.ui.h:1
+msgid "Hide the indicator"
+msgstr "انکوباتورا اندݔم کن"
+
+#: Settings.ui.h:2
+msgid "Set background image"
+msgstr "بک گراندء اَکسے سپت کن"
+
+#: Settings.ui.h:3
+msgid "Set lock screen image"
+msgstr "کُبلء ٹݔمء واستا اکسے گچݔن کن"
+
+#: Settings.ui.h:4
+msgid "Download folder:"
+msgstr "پوشہء اݔرگݔجگ/دانلود"
+
+#: Settings.ui.h:5
+msgid "Commons Wallpaper pictures folder"
+msgstr "کامنزء والپئپران پوشہ"
+
+#: Settings.ui.h:6
+msgid "Delete previously downloaded wallpapers:"
+msgstr "پݔسری اݔرگِپتگݔنء والپئپران پاک کن"
+
+#: Settings.ui.h:7
+msgid "Number of wallpapers to store before deleting oldest:"
+msgstr "چینچو والپئپرا رند کُھنݔن والپئپر پاک کنگ بہ بئ اَنت"
+
+#: Settings.ui.h:8
+msgid "Hours between automatic updates:"
+msgstr "چنت ساھَتء میانا والپئپر وتاوت آپدئیت بہ بیت؟:"
+
+#: Settings.ui.h:9
+msgid "Screen resolution:"
+msgstr "اسکرینء اندازہ"
+
+#: Settings.ui.h:10
+msgid "Override automatic resolution selection"
+msgstr "وتاوتی والپئپرء اندازہ"
+
+#: Settings.ui.h:11 extension.js:137
+msgid "Settings"
+msgstr "رِدانک"
+
+#: Settings.ui.h:12
+msgid "Gnome shell extension version:"
+msgstr "شل ژنومء ورژن"
+
+#: Settings.ui.h:13
+msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
+msgstr "وتی والپئپرا یکے چہ کامنزء گچݔنی والپئپران بہ کن اِت، اکسء سرگال،بنݔنۏک ءُ لائسنسا ھۏر کن اِت"
+
+#: Settings.ui.h:14
+msgid "Maintained by Jon Harald Søby"
+msgstr "جان ھاراد سوبی‌ئا منشن کُتگ"
+
+#: Settings.ui.h:16
+msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
+msgstr ""
+
+#: Settings.ui.h:17
+msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
+msgstr ""
+
+#: Settings.ui.h:19
+msgid "About"
+msgstr ""
+
+#: extension.js:76 extension.js:79
+msgid "minutes"
+msgstr ""
+
+#: extension.js:82
+msgid "days"
+msgstr ""
+
+#: extension.js:85
+msgid "hours"
+msgstr ""
+
+#: extension.js:131
+msgid "(No refresh scheduled)"
+msgstr ""
+
+#: extension.js:132 extension.js:133 extension.js:134
+msgid "Awaiting refresh …"
+msgstr ""
+
+#: extension.js:135
+msgid "Copy image URL to clipboard"
+msgstr ""
+
+#: extension.js:136
+msgid "Refresh now"
+msgstr ""
+
+#: extension.js:169
+msgid "Next refresh: $1 ($2)"
+msgstr ""
+
+#: extension.js:263
+msgid "(No description …)"
+msgstr ""
+
+#: extension.js:266
+msgid "Creator: $1"
+msgstr ""
+
+#: extension.js:268
+msgid "(No creator listed …)"
+msgstr ""
+
+#: extension.js:271
+msgid "License: $1"
+msgstr ""
+
+#: extension.js:313
+msgid "No wallpaper available"
+msgstr ""
+
