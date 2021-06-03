@@ -1,9 +1,7 @@
-# Translation of Wikimedia Commons Wallpaper Gnome Extension to Portuguese (português)
+# Translation of Wikimedia Commons Wallpaper Gnome Extension to Talysh (tolışi)
 # Exported from translatewiki.net
 #
-# Author: Hamilton Abreu
-# Author: Mansil
-# Author: Mansil alfalb
+# Author: Гусейн
 msgid ""
 msgstr ""
 ""
@@ -11,127 +9,127 @@ msgstr ""
 "X-POT-Import-Date: 2021-05-26 12:33:03+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
+"Language: tly\n"
 "X-Generator: MediaWiki 1.36.0; Translate 2021-04-28\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Settings.ui.h:1
 msgid "Hide the indicator"
-msgstr "Ocultar o indicador"
+msgstr "Индикатори нијо карде"
 
 #: Settings.ui.h:2
 msgid "Set background image"
-msgstr "Definir a imagem de fundo"
+msgstr "Фонәдә шикил огәте"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr "Definir a imagem de ecrã bloqueado"
+msgstr "Блок кардејәдә шикил огәтеј"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
-msgstr "Pasta de descarregamentos:"
+msgstr "Замбулә бо әловә карде:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr "Pasta de imagens de fundos da wiki Commons"
+msgstr "Замбулә бо Commons Wallpaper шикилон"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
-msgstr "Eliminar fundos descarregados anteriormente:"
+msgstr "Навәдә әловә кардә шикилон моле:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr "Número de fundos a armazenar antes de eliminar o mais antigo:"
+msgstr "Огәтә быә фонон мымкунә вырон канә гылон моле бә нав:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr "Horas entre atualizações automáticas:"
+msgstr "Чәнәдә саат че автоматик нујә карде мијоно:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
-msgstr "Resolução do ecrã:"
+msgstr "Екрани һовужи:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr "Substituir seleção automática da resolução"
+msgstr "Овахте һовужәти автоматик выжније"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
-msgstr "Configurações"
+msgstr "Сәбәро"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr "Versão da extensão ''shell'' do Gnome:"
+msgstr "Gnome версија һовужәти:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr "Altera o seu papel de parede para imagens selecionadas da wiki Wikimedia Commons, a intervalos definidos. Apresenta o título, o criador e a licença das imagens."
+msgstr "Ко кардә мизәдә шикилон овахтејдә бә выжнијә быә Викиамбоәдә шикилон де огәтә мыддәти. Номи нишо дојдә, мыәллифи ијән шикили лисенсија."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr "Manutenção de Jon Harald Søby"
+msgstr "Јон Харалд Собу дастәк кардә"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr "Com base na extensão Bing Wallpaper Gnome, de Michael Carroll, ela mesma baseada na extensão ''shell'' NASA APOD Gnome, de Ella Argentieri."
+msgstr "Че Gnome Bing Wallpaper ҹынәвә бынәдәј, Мајкл Керол сохтәше, ком ыштән сохтә быә че Gnome NASA APOD ҹынәвәд әсосәдә, Елла Аргентјери мыәллифәдә."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr "<span size=\"small\">Este programa não fornece NENHUMA GARANTIA.\nPara mais detalhes, consulte a <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">Licença Pública Geral GNU, versão 3 ou posterior</a>.</span>"
+msgstr "<span size=\"small\">Ҹынәвә доә бејдә БЕ КОМ ГЫЛӘЈСӘ ГАРАНТИЈОН.\nДијәкә. <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, версија 3 ја һәнијән тожә</a>, бо ве мәлумот сәј горнә.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
-msgstr "Sobre"
+msgstr "Həxədə"
 
 #: extension.js:76 extension.js:79
 msgid "minutes"
-msgstr "minutos"
+msgstr "дәғиғә"
 
 #: extension.js:82
 msgid "days"
-msgstr "dias"
+msgstr "ружон"
 
 #: extension.js:85
 msgid "hours"
-msgstr "horas"
+msgstr "саат"
 
 #: extension.js:131
 msgid "(No refresh scheduled)"
-msgstr "(Não há nenhuma atualização agendada)"
+msgstr "(Нујә карде планәдә ни)"
 
 #: extension.js:132 extension.js:133 extension.js:134
 msgid "Awaiting refresh …"
-msgstr "A aguardar atualização..."
+msgstr "Нујә карде чәш кардејдә..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
-msgstr "Copiar URL da imagem para a área de transferência"
+msgstr "Шикили URL-адрес копија карде бә буфер"
 
 #: extension.js:136
 msgid "Refresh now"
-msgstr "Atualizar agora"
+msgstr "Нујә карде ысәт"
 
 #: extension.js:169
 msgid "Next refresh: $1 ($2)"
-msgstr "Próxima atualização: $1 ($2)"
+msgstr "Омә нујә кардеј: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr "(Sem descrição...)"
+msgstr "(Ном-нышон ни…)"
 
 #: extension.js:266
 msgid "Creator: $1"
-msgstr "Criador: $1"
+msgstr "Мыәллиф: $1"
 
 #: extension.js:268
 msgid "(No creator listed …)"
-msgstr "(Não há nenhum criador listado…)"
+msgstr "(Сијоһијәдә мыәллифон нин…)"
 
 #: extension.js:271
 msgid "License: $1"
-msgstr "Licença: $1"
+msgstr "Лисенсија: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr "Não há nenhum fundo disponível"
+msgstr "Дастрәс быә шикилон нин"
 
