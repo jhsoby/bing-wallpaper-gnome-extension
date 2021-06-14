@@ -5,10 +5,11 @@
 # Author: FF-11
 # Author: FF11
 # Author: Ubahnverleih
+# Author: Umlaut
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-06-03 13:10:15+0000\n"
+"PO-Revision-Date: 2021-06-14 07:51:17+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:33:03+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -118,7 +119,7 @@ msgstr ""
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr ""
+msgstr "(keine Beschreibung …)"
 
 #: extension.js:266
 msgid "Creator: $1"
