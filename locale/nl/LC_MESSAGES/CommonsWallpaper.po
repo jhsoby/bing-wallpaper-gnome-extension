@@ -2,10 +2,11 @@
 # Exported from translatewiki.net
 #
 # Author: Elroy
+# Author: Romaine
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-07-01 11:40:56+0000\n"
+"PO-Revision-Date: 2021-07-15 11:01:29+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:33:03+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,7 +24,7 @@ msgstr "Achtergrondafbeelding instellen"
 
 #: Settings.ui.h:3
 msgid "Set lock screen image"
-msgstr ""
+msgstr "Vergrendelschermafbeelding instellen"
 
 #: Settings.ui.h:4
 msgid "Download folder:"
@@ -31,7 +32,7 @@ msgstr "Ophaalmap:"
 
 #: Settings.ui.h:5
 msgid "Commons Wallpaper pictures folder"
-msgstr ""
+msgstr "map met afbeeldingen van Commons Wallpaper"
 
 #: Settings.ui.h:6
 msgid "Delete previously downloaded wallpapers:"
@@ -39,11 +40,11 @@ msgstr "Eerder opgehaalde achtergronden verwijderen:"
 
 #: Settings.ui.h:7
 msgid "Number of wallpapers to store before deleting oldest:"
-msgstr ""
+msgstr "Aantal achtergronden dat kan worden opgeslagen voordat de oudste wordt verwijderd:"
 
 #: Settings.ui.h:8
 msgid "Hours between automatic updates:"
-msgstr ""
+msgstr "Uren tussen automatische updates:"
 
 #: Settings.ui.h:9
 msgid "Screen resolution:"
@@ -51,31 +52,31 @@ msgstr "Schermverhouding:"
 
 #: Settings.ui.h:10
 msgid "Override automatic resolution selection"
-msgstr ""
+msgstr "Automatische resolutieselectie overschrijven"
 
 #: Settings.ui.h:11 extension.js:137
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #: Settings.ui.h:12
 msgid "Gnome shell extension version:"
-msgstr ""
+msgstr "Gnome shell-extensieversie:"
 
 #: Settings.ui.h:13
 msgid "Changes your wallpaper to selected pictures from Wikimedia Commons at set intervals. Displays the title, creator and license of the pictures."
-msgstr ""
+msgstr "Hiermee wijzigt u uw achtergrond in geselecteerde afbeeldingen op Wikimedia Commons met vaste tussenpozen. Het toont de titel, maker en licentie van de afbeeldingen."
 
 #: Settings.ui.h:14
 msgid "Maintained by Jon Harald Søby"
-msgstr ""
+msgstr "Onderhouden door Jon Harald Søby"
 
 #: Settings.ui.h:16
 msgid "Based on the Bing Wallpaper Gnome extension by Michael Carroll, which was again based on the NASA APOD Gnome shell extension by Ella Argentieri."
-msgstr ""
+msgstr "Gebaseerd op de Bing Wallpaper Gnome-extensie door Michael Carroll, die opnieuw was gebaseerd op de NASA APOD Gnome-shellextensie door Ella Argentieri."
 
 #: Settings.ui.h:17
 msgid "<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\nSee the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 3 or later</a> for details.</span>"
-msgstr ""
+msgstr "<span size=\"small\">Dit programma wordt geleverd met ABSOLUUT GEEN GARANTIE.\nZie de <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, versie 3 of later</a> voor details.</span>"
 
 #: Settings.ui.h:19
 msgid "About"
@@ -83,11 +84,11 @@ msgstr "Over"
 
 #: extension.js:76 extension.js:79
 msgid "minutes"
-msgstr ""
+msgstr "minuten"
 
 #: extension.js:82
 msgid "days"
-msgstr ""
+msgstr "dagen"
 
 #: extension.js:85
 msgid "hours"
@@ -103,7 +104,7 @@ msgstr "In afwachting van vernieuwing..."
 
 #: extension.js:135
 msgid "Copy image URL to clipboard"
-msgstr ""
+msgstr "Kopieer de afbeeldings-URL naar het klembord"
 
 #: extension.js:136
 msgid "Refresh now"
@@ -111,11 +112,11 @@ msgstr "Vernieuwen"
 
 #: extension.js:169
 msgid "Next refresh: $1 ($2)"
-msgstr ""
+msgstr "Volgende verversing: $1 ($2)"
 
 #: extension.js:263
 msgid "(No description …)"
-msgstr ""
+msgstr "(Geen beschrijving …)"
 
 #: extension.js:266
 msgid "Creator: $1"
@@ -127,9 +128,9 @@ msgstr "(Geen maker vermeld...)"
 
 #: extension.js:271
 msgid "License: $1"
-msgstr ""
+msgstr "Licentie: $1"
 
 #: extension.js:313
 msgid "No wallpaper available"
-msgstr ""
+msgstr "Geen achtergrond beschikbaar"
 
